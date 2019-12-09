@@ -24,3 +24,14 @@ Tendran que buscar los errores que no permiten su visualizacion original.
 3. En el cuadro de texto agregar mi usuario de github **matiexe**
 4. Se habilita el boton verde para poder añadir colaborador, dar click.
 
+#### Diseño original
+https://templated.co/linear
+
+#### Comandos Git
++ **git init** : inicia el repositorio local
++ **git status**:verifica si hay archivos con cambios nuevos
++ **git add .** : agrega todos  los archivos con cambios al stage
++ **git commit -m ""** : se confirman y guardan todos los archivos que estan en el stage
++ **git push origin master**:sube nuestro repositorio local al nuestro repositorio remote en GitHub
+ 
+
