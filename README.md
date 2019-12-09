@@ -16,7 +16,7 @@ Tendran que buscar los errores que no permiten su visualizacion original.
 * Publicar el sitio en github pages.
 
 
-#### Ayudas 
+#### Ayudas
 ##### Agregar colaborador 
 
 1. En la pagina del repositorio ir a la seccion **Settings**
@@ -33,5 +33,5 @@ https://templated.co/linear
 + **git add .** : agrega todos  los archivos con cambios al stage
 + **git commit -m ""** : se confirman y guardan todos los archivos que estan en el stage
 + **git push origin master**:sube nuestro repositorio local al nuestro repositorio remote en GitHub
- 
+
 
