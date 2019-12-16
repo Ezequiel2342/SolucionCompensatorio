@@ -16,7 +16,7 @@
 			},
 			xlarge: {
 				media: '(max-width: 1680px)',
-				href: 'css/style-xlarge.css',
+				href: 'assets/css/style-xlarge.css',
 				containers: 1200
 			},
 			large: {
@@ -72,7 +72,6 @@
 	});
 
 	$(function() {
-s
 		var	$window = $(window),
 			$body = $('body');
 
